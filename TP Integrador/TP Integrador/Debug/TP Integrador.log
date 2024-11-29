@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\maria\Desktop\Uni\Tp Integrador\TP Integrador\TP Integrador\FileName.cpp(149,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  TP Integrador.vcxproj -> C:\Users\maria\Desktop\Uni\Tp Integrador\TP Integrador\Debug\TP Integrador.exe
